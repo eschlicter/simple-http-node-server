@@ -1,0 +1,22 @@
+{
+  "name": "simple-http-node-server",
+  "version": "1.0.0",
+  "description": "demo for node.js setup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eschlicter/simple-http-node-server.git"
+  },
+  "keywords": [
+    "demo"
+  ],
+  "author": "eschlicter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eschlicter/simple-http-node-server/issues"
+  },
+  "homepage": "https://github.com/eschlicter/simple-http-node-server#readme"
+}
